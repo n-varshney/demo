@@ -1,11 +1,16 @@
-# demo
-This is a new repo where I will create a nice profile.
+#My Repo for latest projects.
 
-- Point 1
-- Point 2
+##Here is the list of projects
 
+- Finance
+- Accounts
+- Banking
+- Energy
 ___
 
-'''
-print ('Hello World')
-'''
+| Finance project  | ![](https://raw.githubusercontent.com/n-varshney/demo/master/images/technology1.jpg) |
+| :------------: | :------------: |
+| ![](https://raw.githubusercontent.com/n-varshney/demo/master/images/technology1.jpg)  |  Accounts project |
+| Banking project  |![](https://raw.githubusercontent.com/n-varshney/demo/master/images/technology1.jpg)   |
+| ![](https://raw.githubusercontent.com/n-varshney/demo/master/images/technology1.jpg)  |Energy project   |
+
